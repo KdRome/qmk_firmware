@@ -25,6 +25,7 @@
 *.la
 *.stackdump
 *.sym
+qmk_env
 
 # QMK-specific
 api_data/v1
